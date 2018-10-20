@@ -27,6 +27,27 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   <p>This is a paragraph.</p>
 </div>
 
+ <p onclick="toggleElement('TeamMembers')" style="font-size:50px">1. Team Members</p>
+ <div id="TeamMembers" style="padding-left: 100px">
+    <div onclick="toggleElement('TheodorDescription')">
+     - Toma Theodor (Project Manager - PM)
+    </div>
+    <div id="TheodorDescription">
+      ASD
+    </div>
+ </div>
+
+<script>
+function toggleElement(id) {
+    var x = document.getElementById(id);
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
