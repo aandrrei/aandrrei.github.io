@@ -1,10 +1,26 @@
-## Welcome to GitHub Pages
+## Warehouse Cleaner Machine
 
 You can use the [editor on GitHub](https://github.com/aandrrei/aandrrei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 1.Team members
+
+### 2.Identified problem
+
+### 3.Our solution
+
+### 4.Customer segent
+
+### 5.Competition
+
+### 6.Advantages over competition
+
+### 7.Key metrics
+
+### 8.Cost structure
+
+### 9.Revenue streams
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
