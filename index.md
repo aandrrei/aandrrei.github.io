@@ -22,7 +22,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 9.Revenue streams
 
-<div style="background-color:lightblue">
+<div style="background-color:blue">
   <h3>This is a heading</h3>
   <p>This is a paragraph.</p>
 </div>
